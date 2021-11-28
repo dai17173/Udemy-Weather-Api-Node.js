@@ -1,2 +1,2 @@
-# Udemy-Weather-Api-Node.js
-This repository contains my practise from Udemy course.
+Practise 7,
+URL of site: 
