@@ -1,1 +1,1 @@
-Practise 7
+Practice 7
